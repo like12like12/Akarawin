@@ -30,6 +30,7 @@
 	          <li class="nav-item"><a href="#skills-section" class="nav-link"><span>Skills ทักษะ</span></a></li>
 	          <li class="nav-item"><a href="#activities-section" class="nav-link"><span>Activities กิจกรรม</span></a></li>
 	          <li class="nav-item"><a href="#projects-section" class="nav-link"><span>Projects ผลงาน</span></a></li>
+			  <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact ติดต่อ</span></a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -48,6 +49,7 @@
 		          		<span class="subheading">Hello</span>
 			            <h1 class="mb-4 mt-3">I'm <span>Akarawin Sirieuyporn</span></h1>
 			            <h2 class="mb-4">Infomation Technology</h2>
+						<p><a href="#contact-section" class="btn-custom">Contact me</a></p>
 		            </div>
 		          </div>
 	        	</div>
@@ -71,7 +73,7 @@
 		          <div class="col-md-12 heading-section ftco-animate">
 		          	<span class="subheading">Welcome</span>
 		            <h2 class="mb-4" style="font-size: 34px; text-transform: capitalize;">About Me</h2>
-		            <p>นายอัครวินท์ ศิริอวยพร ชื่อเล่น น็อต อายุ 19 ปี  <br> มีพ่อเป็นสารพัดช่างเป็นต้นแบบ และแม่ที่ชอบงานฝีมือประดิษฐ์ประดอย <br> มารวมกันแต่ลูกมีจุดประกายที่คอมพิวเตอร์เครื่องแรกตอนอายุ 8 ขวบ <br> 11 ปีผ่านไป เด็กที่ชอบเล่นเกมในวันนั้นได้มีความฝันที่อยากจะเป็นนักพัฒนาโปรแกรม <br> และอยากที่จะเรียนรู้เกี่ยวกับระบบเครือข่าย รวมไปถึงอุปกรณ์อิเล็คทรอนิคต่าง ๆ(แต่ไม่ได้เรียนมา55)</p>
+		            <p>นายอัครวินท์ ศิริอวยพร ชื่อเล่น น็อต อายุ 20 ปี  <br> มีพ่อเป็นสารพัดช่างเป็นต้นแบบ และแม่ที่ชอบงานฝีมือประดิษฐ์ประดอย <br> มารวมกันแต่ลูกมีจุดประกายที่คอมพิวเตอร์เครื่องแรกตอนอายุ 8 ขวบ <br> 11 ปีผ่านไป เด็กที่ชอบเล่นเกมในวันนั้นได้มีความฝันที่อยากจะเป็นนักพัฒนาโปรแกรม <br> และอยากที่จะเรียนรู้เกี่ยวกับระบบเครือข่าย รวมไปถึงอุปกรณ์อิเล็คทรอนิคต่าง ๆ(แต่ไม่ได้เรียนมา55)</p>
 		          </div>
 		        </div>
 		        <div class="row">
@@ -79,14 +81,14 @@
 		        		<div class="media block-6 services d-block ftco-animate">
 		              <div class="media-body">
 		                <h3 class="heading mb-3">Software Programing</h3>
-		                <p>Java, C++, C#, Visual Basic, .Net, Android, Python, Html, Php, Java Script, Sql ,</p>
+		                <p>Java, C++, C#, Visual Basic, .Net, Android, Python, Html, Php, Java Script </p>
 		              </div>
 		            </div> 
 		        	</div>
 					<div class="col-md-6">
 		        		<div class="media block-6 services d-block ftco-animate">
 		              <div class="media-body">
-		                <h3 class="heading mb-3">Hardware Maker</h3>
+		                <h3 class="heading mb-3">Hardware</h3>
 		                <p>Arduino, Raspberry Pi, Oranger PI, Esp8266, 3D Printer</p>
 		              </div>
 		            </div> 
@@ -128,7 +130,7 @@
 							<div class="progress">
 							 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="90"
 							  	aria-valuemin="0" aria-valuemax="100" style="width:90%">
-							    <span>ถนัด</span>
+							    <span>90%</span>
 							  	</div>
 							</div>
 						</div>
@@ -139,29 +141,18 @@
 							<div class="progress">
 							 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="85"
 							  	aria-valuemin="0" aria-valuemax="100" style="width:85%">
-							    <span>ใช้งานได้คล่อง</span>
+							    <span>85%</span>
 							  	</div>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-6 animate-box">
 						<div class="progress-wrap ftco-animate">
-							<h3>Graphic Design</h3>
+							<h3>Video Editing</h3>
 							<div class="progress">
-							 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="60"
-							  	aria-valuemin="0" aria-valuemax="100" style="width:60%">
-							    <span>พอใช้งานได้</span>
-							  	</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6 animate-box">
-						<div class="progress-wrap ftco-animate">
-							<h3>Databases and Queries</h3>
-							<div class="progress">
-							 	<div class="progress-bar color-4" role="progressbar" aria-valuenow="70"
-							  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
-							    <span>ประยุกต์ใช้ได้</span>
+							 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="80"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
+							    <span>60%</span>
 							  	</div>
 							</div>
 						</div>
@@ -172,18 +163,7 @@
 							<div class="progress">
 							 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="90"
 							  	aria-valuemin="0" aria-valuemax="100" style="width:90%">
-							    <span>แก้ปัญหาเฉพาะหน้าได้</span>
-							  	</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6 animate-box">
-						<div class="progress-wrap ftco-animate">
-							<h3>Cybersecurity</h3>
-							<div class="progress">
-							 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
-							  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
-							    <span>ป้องกันระดับนึง</span>
+							    <span>90%</span>
 							  	</div>
 							</div>
 						</div>
@@ -194,7 +174,7 @@
 							<div class="progress">
 							 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="75"
 							  	aria-valuemin="0" aria-valuemax="100" style="width:75%">
-							    <span>เข้าใจทั่วๆไป</span>
+							    <span>75%</span>
 							  	</div>
 							</div>
 						</div>
@@ -205,7 +185,7 @@
 							<div class="progress">
 							 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="75"
 							  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
-							    <span>ประยุกต์ใช้ได้</span>
+							    <span>70%</span>
 							  	</div>
 							</div>
 						</div>
@@ -344,7 +324,7 @@
         <div class="row d-flex">
           <div class="col-md-4 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <a class="block-20" style="background-image: url('pic/2019-11-22_1-34-44.jpg');">
+              <!-- <a class="block-20" style="background-image: url('pic/!2019-11-22_1-34-44.jpg');"> -->
               </a>
               <div class="text mt-3 float-right d-block">
               	<div class="d-flex align-items-center mb-3 meta">
@@ -353,13 +333,13 @@
 	                </p>
                 </div>
                 <h3 class="heading">MaPrang Assistant</a></h3>
-                <p>ระบบควบคุมและแสดงผลของอุปกรณ์และเครื่องใช้ไฟฟ้าภายในบ้าน</p>
+                <p>Home Automation Assistant Platform</p>
               </div>
             </div>
           </div>
           <div class="col-md-4 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <a class="block-20" style="background-image: url('images/IMG_20190924_191743.jpg');">
+              <!-- <a class="block-20" style="background-image: url('images/!IMG_20190924_191743.jpg');"> -->
               </a>
               <div class="text mt-3 float-right d-block">
               	<div class="d-flex align-items-center mb-3 meta">
@@ -368,13 +348,13 @@
 	                </p>
                 </div>
                 <h3 class="heading">MaFueng 3D Printer</a></h3>
-                <p>เป็นเครื่องพิมพ์สามมิติพร้อมระบบควบคุมการปริ้นและเช็คสถานะ</p>
+                <p>3D Printer Online Control</p>
               </div>
             </div>
           </div>
           <div class="col-md-4 d-flex ftco-animate">
           	<div class="blog-entry">
-              <a  class="block-20" style="background-image: url('pic/Asset 2.png');">
+              <!-- <a  class="block-20" style="background-image: url('pic/!Asset 2.png');"> -->
               </a>
               <div class="text mt-3 float-right d-block">
               	<div class="d-flex align-items-center mb-3 meta">
@@ -383,13 +363,13 @@
 	                </p>
                 </div>
                 <h3 class="heading">MaPrang Messenger</a></h3>
-                <p>เป็นระบบแชทบอทรายงานสถานะอุปกรณ์ถายในบ้าน</p>
+                <p>Notify Platform</p>
               </div>
             </div>
           </div>
 		  <div class="col-md-4 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <a class="block-20" style="background-image: url('pic/IMG_20191116_001548.jpg');">
+              <!-- <a class="block-20" style="background-image: url('pic/!IMG_20191116_001548.jpg');"> -->
               </a>
               <div class="text mt-3 float-right d-block">
               	<div class="d-flex align-items-center mb-3 meta">
@@ -398,13 +378,13 @@
 	                </p>
                 </div>
                 <h3 class="heading">MaPraow PC</a></h3>
-                <p>เป็นระบบควบคุมคอมพิวเตอร์ที่สามารถควบคุมปิดเปิดหรือเช็คสถานะการทำงานได้</p>
+                <p>Computer Pc Online Control</p>
               </div>
             </div>
           </div>
 		  <div class="col-md-4 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <a class="block-20" style="background-image: url('pic/Asset 1.png');">
+              <!-- <a class="block-20" style="background-image: url('pic/!Asset 1.png');"> -->
               </a>
               <div class="text mt-3 float-right d-block">
               	<div class="d-flex align-items-center mb-3 meta">
@@ -413,39 +393,47 @@
 	                </p>
                 </div>
                 <h3 class="heading">5 of Life</a></h3>
-                <p><a href="http://bit.ly/32Y5i3m">ภาพยนตร์สั้น รณรงค์เลิกบุหรี่ http://bit.ly/32Y5i3m <a></p>
-              </div>
-            </div>
-          </div>
-		  <div class="col-md-4 d-flex ftco-animate">
-          	<div class="blog-entry">
-              <a class="block-20" style="background-image: url('images/web.png');">
-              </a>
-              <div class="text mt-3 float-right d-block">
-              	<div class="d-flex align-items-center mb-3 meta">
-	                <p class="mb-0">
-	                	<span class="mr-2">Made on 2016</span>
-	                </p>
-                </div>
-                <h3 class="heading">Portfolio Web Version</a></h3>
-                <p>เป็นพอร์ทที่ทำขึ้นมาบนเว็บเพื่อมานำเสนอ มหาวิทยาลัยหอการค้าไทย</p>
+                <p>Short Film </p>
               </div>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <section class="ftco-section contact-section ftco-no-pb" id="contact-section">
+        <section class="ftco-section contact-section ftco-no-pb" id="contact-section">
       <div class="container">
       	<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
-            <span class="subheading">ขอบคุณครับ</span>
-            <h2 class="mb-4">Thank You</h2>
-            <p>I will not <span>Disappoint</span></p>
+            <span class="subheading">Contact</span>
+            <h2 class="mb-4">Contact Me</h2>
+            <p>Let me try to Show </p>
           </div>
         </div>
+
+        <div class="row no-gutters block-9">
+          <div class="col-md-6 order-md-last d-flex">
+            <form action="#" class="bg-light p-4 p-md-5 contact-form">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Your Name">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Your Email">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Subject">
+              </div>
+              <div class="form-group">
+                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+              </div>
+              <div class="form-group">
+                <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
+              </div>
+            </form>
+          
+          </div>
+
           <div class="col-md-6 d-flex">
-          	<div class="img" style="background-image: url(images/about.jpg);"></div>
+          	<div class="img" style="background-image: url(pic/about.jpg);"></div>
           </div>
         </div>
       </div>
@@ -472,18 +460,19 @@
                 <li><a href="#skills-section" class="nav-link"><span class="icon-long-arrow-right mr-2"></span>Skills</a></li>
                 <li><a href="#activities-section" class="nav-link"><span class="icon-long-arrow-right mr-2"></span>Activities</a></li>
                 <li><a href="#projects-section" class="nav-link"><span class="icon-long-arrow-right mr-2"></span>Projects</a></li>
+				<li><a href="#contact-section" class="nav-link"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
               </ul>
             </div>
 		  </div>
           <div class="col-md">
-             <div class="ftco-footer-widget mb-auto">
-              <h2 class="ftco-heading-2">Made For</h2>
+             <div class="ftco-footer-widget mb-4">
+              <h2 class="ftco-heading-2">Services</h2>
               <ul class="list-unstyled">
-                <li><a href="#"></span>Presentation at</a></li>
-                <li><a href="#"></span>University of the Thai Chamber of Commerce</a></li>
-                <li><a href="#"></span>นำเสนอที่</a></li>
-                <li><a href="#"></span>มหาวิทยาลัยหอการค้าไทย</a></li>
-                <li><a href="https://www.utcc.ac.th/" target="_blank"><span class="icon-long-arrow-right mr-2"></span>https://www.utcc.ac.th/</a></li>
+                <li><a href="#contact-section"><span class="icon-long-arrow-right mr-2"></span>Diy, Repair, Upgrade Pc</a></li>
+                <li><a href="#contact-section"><span class="icon-long-arrow-right mr-2"></span>Arduino Project, Program Project</a></li>
+                <li><a href="#contact-section"><span class="icon-long-arrow-right mr-2"></span>It Support</a></li>
+                <li><a href="#contact-section"><span class="icon-long-arrow-right mr-2"></span>Helping Script/Bot</a></li>
+                <li><a href="#contact-section"><span class="icon-long-arrow-right mr-2"></span>Video Editing</a></li>
               </ul>
             </div>
           </div>
